@@ -35,7 +35,7 @@ Scan Reports for Reference: [click here](https://drive.google.com/drive/folders/
 
 ## Installation and Usage
 
-As far as I understand, <b>`test_alive_hosts_only`</b> option activates a new alive scan sysyem called Boreas. It's by default enable in GOS 21.04. 
+As far as I understand, <b>`test_alive_hosts_only`</b> option activates a new alive scan system called Boreas. It's by default enable in GOS 21.04. 
 
 - Running <b>`openvas -s`</b> on a server with GOS 21.04 running will result in the current configuration being shown.
 
