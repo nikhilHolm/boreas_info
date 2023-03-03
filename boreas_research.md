@@ -23,6 +23,10 @@ The main difference is that with the old classic method via host_alive_detection
 - Openvas 9 Scan - Able to detect 13 hosts [12 hosts are acutally up], Scan Duration: 38 Minutes
 
 - Openvas 21.4.4 Scan With test_alive_hosts_only Option Yes - Able to detect 12 hosts, Scan Duration: 26 Minutes
+  
+  Logs:
+
+  ![Alt text](Screenshot%20from%202023-03-03%2012-33-00.png)
 
 - Openvas 21.4.4 Scan with test_alive_hosts_only Option No - Able to detect 13 hosts, Scan Duration: 33 Minutes
 
